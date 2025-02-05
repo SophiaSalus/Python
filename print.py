@@ -1,0 +1,15 @@
+'''_summary_
+    reference:https://www.funology.com/knock-knock-jokes-page-2/'''
+print("Knock, knock.")
+print("Who's there?")
+print("Banana.")
+print("Banana who?")
+print("Knock, knock.")
+print("Who’s there?")
+print("Banana.")
+print("Banana who?")
+print("Knock, knock.")
+print("Who’s there?")
+print("Orange.")
+print("Orange who?")
+print("ORANGE YOU GLAD I DIDN’T SAY BANANA!")
