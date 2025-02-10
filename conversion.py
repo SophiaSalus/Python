@@ -1,34 +1,45 @@
-Pounds(lb) = kilograms(kg) * 2.20462
+'''
 
-5 kg * 2.20462 = 11.0231 lb
+    Create a Python program that converts kilograms to pounds. 
 
-c = 2.20462
-kilo = 150
-pound = kilo * c
-print(f"{kilo} kilograms = {pound:.1f} pounds")
+    Use at least four different samples to convert. 
 
-Pounds(lb) = kilograms(kg) * 3.10642
+    A sample of the math is provided below; do not use the same 
 
-6 kg * 3.10642 = 18.63852
+    example in your program.
 
-a = 3.10642
-kilo = 260
-pound = kilo * a
-print(e"{kilo} kilograms = {pound:.1e} pounds")
+    Kilograms to Pounds Conversion:
 
-Pounds(lb) = kilograms(kg) * 3.13579
+    To convert kilograms (kg) to pounds (lb), use the formula:
 
-7 kg * 3.13579 = 21.95053
+    Pounds (lb) = Kilograms (kg) * 2.20462
 
-b = 370
-kilo = 370
-pound = kilo * b
-print(c"{kilo} kilograms = {pound:.1c} pounds")
+    Example: 5 kg * 2.20462 = 11.0231 lb
 
-Pounds(lb) = kilograms(kg) * 2.26402
+'''
 
-8 kg * 2.2642 = 18.1136
-c = 480
-kilo = 480
-pound = kilo * c
-print(d"{kilo} kilograms = {pound:.1d} pounds")
+conversion_rate = 2.20462
+
+kilo_1 = 150
+
+kilo_2 = 200
+
+kilo_3 = 350
+
+kilo_4 = 400
+
+pound_1 = kilo_1 * conversion_rate
+
+pound_2 = kilo_2 * conversion_rate
+
+pound_3 = kilo_3 * conversion_rate
+
+pound_4 = kilo_4 * conversion_rate
+
+print(f"{kilo_1} kilograms = {pound_1:.1f} pounds")
+
+print(f"{kilo_2} kilograms = {pound_2:.1f} pounds")
+
+print(f"{kilo_3} kilograms = {pound_3:.1f} pounds")
+
+print(f"{kilo_4} kilograms = {pound_4:.1f} pounds")
