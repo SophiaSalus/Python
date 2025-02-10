@@ -9,14 +9,12 @@
     Debt
     Calculate the percentage of the total budget spent in each category.
     Display the results in a user-friendly format using f-strings.
-    Ensure your code is well-commented to explain the functionality of different sections.
-'''
+    Ensure your code is well-commented to explain the functionality of different sections.'''
 
 # Get input from user
 
 budget = float(input("Please enter your net monthly income for the budget: "))
-housing = float(input(
-    "Please enter your housing costs:  "))
+housing = float(input("Please enter your housing costs:  "))
 utilities = float(input("Please enter your utilities costs:  "))
 groceries = float(input("Please enter your grocery costs:  "))
 transportation = float(input("Please enter your transportation costs:  "))
