@@ -1,5 +1,4 @@
-'''_summary_
-    reference:https://www.funology.com/knock-knock-jokes-page-2/'''
+Reference: https://www.funology.com/knock-knock-jokes-page-2/
 print("Knock, knock.")
 print("Who's there?")
 print("Banana.")
