@@ -1,6 +1,5 @@
-"""
-How a car works
-"""
+How a car works:
+
 
 tank_size = 15
 # Define the total distance covered
