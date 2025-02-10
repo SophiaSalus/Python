@@ -1,6 +1,4 @@
-'''
-    Requirements:
-    Design a Python program that prompts users to enter their total budget (ask them for their net monthly income) and amounts for spending categories:
+''' Requirements: Design a Python program that prompts users to enter their total budget (ask them for their net monthly income) and amounts for spending categories:
     Housing (rent or mortgage)
     Utilities
     Groceries
