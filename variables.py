@@ -1,5 +1,5 @@
 '''
-Declare two variables, length and width, and assign values to them.
+Declare two variables, length, and width, and assign values to them.
 Calculate the area using the formula: area = length * width.
 Print a message displaying the dimensions and the area using concatenation or formatting.
 '''
