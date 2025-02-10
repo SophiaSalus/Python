@@ -1,12 +1,6 @@
-'''
-
-    Create a Python program that converts kilograms to pounds. 
-
-    Use at least four different samples to convert. 
-
-    A sample of the math is provided below; do not use the same 
-
-    example in your program.
+'''Create a Python program that converts kilograms to pounds. 
+    Use at least four different samples to convert.
+    A sample of the math is provided below; do not use the same example in your program.
 
     Kilograms to Pounds Conversion:
 
