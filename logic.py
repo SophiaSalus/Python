@@ -9,6 +9,7 @@ Display Results: Print the logical statement and its result for each comparison.
 Guidelines for Logical Comparisons:
 Ensure that your comparisons are meaningful and not too obvious (e.g., avoid comparisons like num1 == num1).
 Try to use comparisons that could yield different results based on user input."""
+
 a = 10
 b = 20
 c = 30
