@@ -1,5 +1,4 @@
 """In this exercise, you will practice using logical operators (and, or, not) in Python. Your task is to create a program that prompts the user for two integer inputs and then demonstrate the use of these operators.
-
 User Input: Start by asking the user to input two distinct integers.
 Logical Operators: Implement six different logical comparisons using the input integers. Include two examples for each of the following operators:
 and
