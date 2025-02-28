@@ -8,8 +8,9 @@ Average Steps: Calculate and display the average steps."""
 
 days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 steps = []
-steps_taken = int(input(f"Enter the number of steps you took on {day}:"))
-steps.append(steps_taken)
+for day in days:
+    steps_taken = int(input(f"Enter the number of steps you took on {day}:"))
+    steps.append(steps_taken)
 print("\nSteps recorded for each day:")
 for i in range(len(days)):
     print(f"{days[i]}: {steps[i]} steps")
